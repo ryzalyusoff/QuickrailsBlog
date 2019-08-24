@@ -1,2 +1,2 @@
 # QuickrailsBlog
-Blogposts about Rails
+Blogposts on Rails
